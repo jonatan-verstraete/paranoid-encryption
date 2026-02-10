@@ -5,7 +5,7 @@
 
 > TL;DR - Two layers AES-256. One greasy encrypted football. Private GitHub repo. Nothing readable. Ever.
 
-Microsoft, NSA, ASI, HNDL, area 420?  
+Gotham, XKEYSCORE, ASI, HNDL, cerebr/o-... area 420?  
 Trust none of them. Not even for a second.
 
 You get four savage scripts:
