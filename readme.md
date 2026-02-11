@@ -5,8 +5,8 @@
 
 > TL;DR - Two layers AES-256. One greasy encrypted football. Private GitHub repo. Nothing readable. Ever.
 
-Gotham, XKEYSCORE, ASI, HNDL, cerebr/o-... area 420?  
-Trust none of them. Not even for a second.
+XKEYSCORE, ASI, HNDL, EGOTISTICALGIRAFFE, cerebr/o-, area 420.. Trust none of them. 
+Not even for a second.
 
 You get four savage scripts:
 
@@ -29,7 +29,7 @@ or go full manic — `./commit.sh`
 Pick a long ugly password that's longer than your rap sheet.  
 *Chacha20* acting weird? Swap to *aes-256-ctr* in `.env`.  
 
-**A word of advice**, stop whining about sudo needing a password and use Touch ID so you don't screen every time.
+**A word of advice**, stop whining about sudo needing a password and use Touch ID
 
 `sudo nano /etc/pam.d/sudo`  
 paste this the very top: `auth    sufficient    pam_tid.so`  
