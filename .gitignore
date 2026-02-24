@@ -1,3 +1,5 @@
-.env
+.*
+*.enc
+!.env.example
 temp_*
 decrypted_notes/
